@@ -1,0 +1,7 @@
+# [submodule "test"]
+# 	path = modules/test
+# 	url = git@github.com:username/test.git
+
+# [submodule "test2"]
+# 	path = modules/test2
+# 	url = git@github.com:username/test2.git

@@ -1,0 +1,33 @@
+## Contributing to 9ssi7/mono
+
+**Contributing Guidelines**
+
+Welcome to 9ssi7/mono! We are excited to have you contribute to the project.
+
+**How to Contribute**
+
+There are many ways to contribute to 9ssi7/mono:
+
+* **Report bugs:** If you find a bug, please report it in the issue tracker: [geçersiz URL kaldırıldı].
+* **Suggest features:** If you have a suggestion for a new feature, please submit a feature request: [geçersiz URL kaldırıldı].
+* **Pull requests:** If you have a fix for a bug or a new feature, please submit a pull request.
+
+**Pull Request Guidelines**
+
+* Fork the repository and clone it to your local machine.
+* Create a new branch for your changes.
+* Make your changes and commit them to your branch.
+* Push your changes to your remote branch.
+* Submit a pull request from your remote branch to the master branch of the 9ssi7/mono repository.
+
+**Documentation**
+
+All changes to 9ssi7/mono must be documented. Please update the README.md file with any changes to the project.
+
+**License**
+
+9ssi7/mono is licensed under the Apache License, Version 2.0: [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+**Thank You**
+
+Thank you for contributing to 9ssi7/mono! We appreciate your help in making the project better.
