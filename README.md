@@ -1,4 +1,4 @@
-## 9ssi7/mono: Monorepo Microservices Architecture Boilerplate
+## Monorepo Microservices Architecture Boilerplate
 
 # Introduction
 
